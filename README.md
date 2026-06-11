@@ -1,41 +1,57 @@
-LEDGER : Personal Finance Tracker (Streamlit App)
+# LEDGER : Personal Finance Tracker (Streamlit App)
 
-A smart personal finance tracker that helps users record, analyze, and visualize their income and expenses. Built using Python, Streamlit, Pandas, and Plotly, this project provides clear insights into spending habits and savings.
+A simple and powerful personal finance tracker built using Python and Streamlit. This app helps users manage their income, expenses, and visualize spending patterns with interactive charts.
 
- Features:
- Add income and expense transactions
- Categorize expenses (Food, Travel, Bills, Shopping, etc.)
- Visualize spending using interactive charts
- Track total income, expenses, and savings
- Get insights into spending patterns
- User-friendly web interface using Streamlit
+---
 
- Tech Stack:
-Python
-Streamlit
-Pandas
-Plotly
-SQLite (or your database)
+##  Features
 
- Project Structure:
-finance-tracker/
-│── app.py              # Streamlit web app
-│── tracker.py             # Terminal version (initial build)
-│── requirements.txt
-│── README.
+-  Add income and expense transactions  
+-  Categorize expenses (Food, Travel, Bills, Shopping, etc.)  
+-  Interactive charts using Plotly  
+-  Track total income, expenses, and savings  
+-  Insights into spending habits  
+-  Clean and user-friendly Streamlit interface  
 
- Installation & Setup:
+---
 
-Clone the repository:
-git clone https://github.com/Selda-Treesa/finance-tracker.git
-cd finance-tracker
+##  Tech Stack
 
-Install dependencies:
-pip install -r requirements.txt
+- Python  
+- Streamlit  
+- Pandas  
+- Plotly  
+- SQLite  
 
-Run the Streamlit app:
-streamlit run app.py
+---
+
+##  Project Structure
+
+finance-tracker/  
+│── app.py              # Streamlit web app  
+│── tracker.py             # Terminal version (initial)  
+│── requirements.txt 
+│── README.md  
+
+---
+
+##  How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/Selda-Treesa/finance-tracker.git  
+cd finance-tracker  
+
+2. Install dependencies:
+
+pip install -r requirements.txt  
+
+3. Run the app:
+
+streamlit run app.py  
+
+---
 
 
-Feel free to fork this project and improve it!
+Feel free to fork this repo and improve it!
 
