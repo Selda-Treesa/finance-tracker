@@ -1,0 +1,666 @@
+[
+  {
+    "id": 77,
+    "date": "2026-06-25 19:23:58.165791",
+    "type": "expense",
+    "amount": 299.0,
+    "category": "Utilities",
+    "note": "Jio recharge"
+  },
+  {
+    "id": 69,
+    "date": "2026-06-22 19:23:58.165791",
+    "type": "expense",
+    "amount": 131.0,
+    "category": "Transport",
+    "note": "Uber ride"
+  },
+  {
+    "id": 68,
+    "date": "2026-06-21 19:23:58.165791",
+    "type": "expense",
+    "amount": 3832.0,
+    "category": "Investment",
+    "note": "Mutual fund SIP"
+  },
+  {
+    "id": 73,
+    "date": "2026-06-19 19:23:58.165791",
+    "type": "expense",
+    "amount": 649.0,
+    "category": "Entertainment",
+    "note": "Netflix"
+  },
+  {
+    "id": 72,
+    "date": "2026-06-18 19:23:58.165791",
+    "type": "expense",
+    "amount": 357.0,
+    "category": "Food & Dining",
+    "note": "Zomato order"
+  },
+  {
+    "id": 75,
+    "date": "2026-06-16 19:23:58.165791",
+    "type": "expense",
+    "amount": 528.0,
+    "category": "Food & Dining",
+    "note": "Swiggy delivery"
+  },
+  {
+    "id": 78,
+    "date": "2026-06-16 19:23:58.165791",
+    "type": "expense",
+    "amount": 513.0,
+    "category": "Health",
+    "note": "Pharmacy"
+  },
+  {
+    "id": 81,
+    "date": "2026-06-11 00:00:00.000000",
+    "type": "expense",
+    "amount": 200.01,
+    "category": "Food & Dining",
+    "note": "zomato"
+  },
+  {
+    "id": 79,
+    "date": "2026-06-10 19:23:58.165791",
+    "type": "expense",
+    "amount": 1696.0,
+    "category": "Food & Dining",
+    "note": "Grocery shopping"
+  },
+  {
+    "id": 80,
+    "date": "2026-06-10 00:00:00.000000",
+    "type": "expense",
+    "amount": 100.0,
+    "category": "Food & Dining",
+    "note": "zomato"
+  },
+  {
+    "id": 71,
+    "date": "2026-06-06 19:23:58.165791",
+    "type": "expense",
+    "amount": 829.0,
+    "category": "Education",
+    "note": "Udemy course"
+  },
+  {
+    "id": 76,
+    "date": "2026-06-05 19:23:58.165791",
+    "type": "expense",
+    "amount": 485.0,
+    "category": "Entertainment",
+    "note": "BookMyShow"
+  },
+  {
+    "id": 70,
+    "date": "2026-06-05 19:23:58.165791",
+    "type": "expense",
+    "amount": 448.0,
+    "category": "Personal Care",
+    "note": "Salon"
+  },
+  {
+    "id": 67,
+    "date": "2026-06-03 19:23:58.165791",
+    "type": "expense",
+    "amount": 800.0,
+    "category": "Personal Care",
+    "note": "Gym membership"
+  },
+  {
+    "id": 74,
+    "date": "2026-06-03 19:23:58.165791",
+    "type": "expense",
+    "amount": 1195.0,
+    "category": "Shopping",
+    "note": "Amazon purchase"
+  },
+  {
+    "id": 66,
+    "date": "2026-06-01 19:23:58.165791",
+    "type": "income",
+    "amount": 70000.0,
+    "category": "Salary",
+    "note": "Monthly salary"
+  },
+  {
+    "id": 60,
+    "date": "2026-05-27 19:23:58.165791",
+    "type": "expense",
+    "amount": 3527.0,
+    "category": "Investment",
+    "note": "Mutual fund SIP"
+  },
+  {
+    "id": 56,
+    "date": "2026-05-25 19:23:58.165791",
+    "type": "expense",
+    "amount": 14000.0,
+    "category": "Rent & Housing",
+    "note": "Rent"
+  },
+  {
+    "id": 61,
+    "date": "2026-05-22 19:23:58.165791",
+    "type": "expense",
+    "amount": 1488.0,
+    "category": "Shopping",
+    "note": "Amazon purchase"
+  },
+  {
+    "id": 62,
+    "date": "2026-05-20 19:23:58.165791",
+    "type": "expense",
+    "amount": 1210.0,
+    "category": "Transport",
+    "note": "Petrol"
+  },
+  {
+    "id": 57,
+    "date": "2026-05-14 19:23:58.165791",
+    "type": "expense",
+    "amount": 1810.0,
+    "category": "Food & Dining",
+    "note": "Grocery shopping"
+  },
+  {
+    "id": 63,
+    "date": "2026-05-13 19:23:58.165791",
+    "type": "expense",
+    "amount": 1236.0,
+    "category": "Education",
+    "note": "Udemy course"
+  },
+  {
+    "id": 58,
+    "date": "2026-05-13 19:23:58.165791",
+    "type": "expense",
+    "amount": 800.0,
+    "category": "Personal Care",
+    "note": "Gym membership"
+  },
+  {
+    "id": 55,
+    "date": "2026-05-13 19:23:58.165791",
+    "type": "income",
+    "amount": 17380.0,
+    "category": "Freelance",
+    "note": "Freelance project"
+  },
+  {
+    "id": 59,
+    "date": "2026-05-08 19:23:58.165791",
+    "type": "expense",
+    "amount": 2911.0,
+    "category": "Shopping",
+    "note": "Myntra order"
+  },
+  {
+    "id": 64,
+    "date": "2026-05-08 19:23:58.165791",
+    "type": "expense",
+    "amount": 671.0,
+    "category": "Utilities",
+    "note": "Electricity bill"
+  },
+  {
+    "id": 65,
+    "date": "2026-05-03 19:23:58.165791",
+    "type": "expense",
+    "amount": 245.0,
+    "category": "Transport",
+    "note": "Uber ride"
+  },
+  {
+    "id": 54,
+    "date": "2026-05-01 19:23:58.165791",
+    "type": "income",
+    "amount": 70000.0,
+    "category": "Salary",
+    "note": "Monthly salary"
+  },
+  {
+    "id": 43,
+    "date": "2026-04-27 19:23:58.165791",
+    "type": "expense",
+    "amount": 1098.0,
+    "category": "Transport",
+    "note": "Petrol"
+  },
+  {
+    "id": 46,
+    "date": "2026-04-22 19:23:58.165791",
+    "type": "expense",
+    "amount": 428.0,
+    "category": "Food & Dining",
+    "note": "Zomato order"
+  },
+  {
+    "id": 50,
+    "date": "2026-04-20 19:23:58.165791",
+    "type": "expense",
+    "amount": 494.0,
+    "category": "Food & Dining",
+    "note": "Swiggy delivery"
+  },
+  {
+    "id": 53,
+    "date": "2026-04-14 19:23:58.165791",
+    "type": "expense",
+    "amount": 800.0,
+    "category": "Personal Care",
+    "note": "Gym membership"
+  },
+  {
+    "id": 51,
+    "date": "2026-04-13 19:23:58.165791",
+    "type": "expense",
+    "amount": 1216.0,
+    "category": "Education",
+    "note": "Udemy course"
+  },
+  {
+    "id": 45,
+    "date": "2026-04-12 19:23:58.165791",
+    "type": "expense",
+    "amount": 119.0,
+    "category": "Entertainment",
+    "note": "Spotify"
+  },
+  {
+    "id": 44,
+    "date": "2026-04-12 19:23:58.165791",
+    "type": "expense",
+    "amount": 263.0,
+    "category": "Utilities",
+    "note": "Jio recharge"
+  },
+  {
+    "id": 52,
+    "date": "2026-04-05 19:23:58.165791",
+    "type": "expense",
+    "amount": 2071.0,
+    "category": "Food & Dining",
+    "note": "Grocery shopping"
+  },
+  {
+    "id": 47,
+    "date": "2026-04-05 19:23:58.165791",
+    "type": "expense",
+    "amount": 213.0,
+    "category": "Transport",
+    "note": "Uber ride"
+  },
+  {
+    "id": 49,
+    "date": "2026-04-03 19:23:58.165791",
+    "type": "expense",
+    "amount": 740.0,
+    "category": "Health",
+    "note": "Pharmacy"
+  },
+  {
+    "id": 42,
+    "date": "2026-04-01 19:23:58.165791",
+    "type": "income",
+    "amount": 70000.0,
+    "category": "Salary",
+    "note": "Monthly salary"
+  },
+  {
+    "id": 48,
+    "date": "2026-04-01 19:23:58.165791",
+    "type": "expense",
+    "amount": 695.0,
+    "category": "Utilities",
+    "note": "Electricity bill"
+  },
+  {
+    "id": 34,
+    "date": "2026-03-24 19:23:58.165791",
+    "type": "expense",
+    "amount": 470.0,
+    "category": "Personal Care",
+    "note": "Salon"
+  },
+  {
+    "id": 32,
+    "date": "2026-03-19 19:23:58.165791",
+    "type": "expense",
+    "amount": 562.0,
+    "category": "Food & Dining",
+    "note": "Zomato order"
+  },
+  {
+    "id": 37,
+    "date": "2026-03-16 19:23:58.165791",
+    "type": "expense",
+    "amount": 649.0,
+    "category": "Entertainment",
+    "note": "Netflix"
+  },
+  {
+    "id": 36,
+    "date": "2026-03-16 19:23:58.165791",
+    "type": "expense",
+    "amount": 4270.0,
+    "category": "Investment",
+    "note": "Mutual fund SIP"
+  },
+  {
+    "id": 39,
+    "date": "2026-03-16 19:23:58.165791",
+    "type": "expense",
+    "amount": 1216.0,
+    "category": "Transport",
+    "note": "Petrol"
+  },
+  {
+    "id": 38,
+    "date": "2026-03-15 19:23:58.165791",
+    "type": "expense",
+    "amount": 390.0,
+    "category": "Entertainment",
+    "note": "BookMyShow"
+  },
+  {
+    "id": 33,
+    "date": "2026-03-13 19:23:58.165791",
+    "type": "expense",
+    "amount": 119.0,
+    "category": "Entertainment",
+    "note": "Spotify"
+  },
+  {
+    "id": 31,
+    "date": "2026-03-13 19:23:58.165791",
+    "type": "income",
+    "amount": 16327.0,
+    "category": "Freelance",
+    "note": "Freelance project"
+  },
+  {
+    "id": 40,
+    "date": "2026-03-09 19:23:58.165791",
+    "type": "expense",
+    "amount": 622.0,
+    "category": "Health",
+    "note": "Pharmacy"
+  },
+  {
+    "id": 35,
+    "date": "2026-03-03 19:23:58.165791",
+    "type": "expense",
+    "amount": 1289.0,
+    "category": "Utilities",
+    "note": "Electricity bill"
+  },
+  {
+    "id": 41,
+    "date": "2026-03-01 19:23:58.165791",
+    "type": "expense",
+    "amount": 800.0,
+    "category": "Personal Care",
+    "note": "Gym membership"
+  },
+  {
+    "id": 30,
+    "date": "2026-03-01 19:23:58.165791",
+    "type": "income",
+    "amount": 70000.0,
+    "category": "Salary",
+    "note": "Monthly salary"
+  },
+  {
+    "id": 19,
+    "date": "2026-02-26 19:23:58.165791",
+    "type": "expense",
+    "amount": 475.0,
+    "category": "Food & Dining",
+    "note": "Zomato order"
+  },
+  {
+    "id": 27,
+    "date": "2026-02-25 19:23:58.165791",
+    "type": "expense",
+    "amount": 386.0,
+    "category": "Personal Care",
+    "note": "Salon"
+  },
+  {
+    "id": 24,
+    "date": "2026-02-23 19:23:58.165791",
+    "type": "expense",
+    "amount": 934.0,
+    "category": "Education",
+    "note": "Udemy course"
+  },
+  {
+    "id": 21,
+    "date": "2026-02-23 19:23:58.165791",
+    "type": "expense",
+    "amount": 296.0,
+    "category": "Transport",
+    "note": "Uber ride"
+  },
+  {
+    "id": 25,
+    "date": "2026-02-22 19:23:58.165791",
+    "type": "expense",
+    "amount": 545.0,
+    "category": "Food & Dining",
+    "note": "Swiggy delivery"
+  },
+  {
+    "id": 22,
+    "date": "2026-02-19 19:23:58.165791",
+    "type": "expense",
+    "amount": 1026.0,
+    "category": "Food & Dining",
+    "note": "Grocery shopping"
+  },
+  {
+    "id": 29,
+    "date": "2026-02-18 19:23:58.165791",
+    "type": "expense",
+    "amount": 1349.0,
+    "category": "Shopping",
+    "note": "Myntra order"
+  },
+  {
+    "id": 18,
+    "date": "2026-02-16 19:23:58.165791",
+    "type": "expense",
+    "amount": 652.0,
+    "category": "Entertainment",
+    "note": "BookMyShow"
+  },
+  {
+    "id": 26,
+    "date": "2026-02-11 19:23:58.165791",
+    "type": "expense",
+    "amount": 14000.0,
+    "category": "Rent & Housing",
+    "note": "Rent"
+  },
+  {
+    "id": 23,
+    "date": "2026-02-09 19:23:58.165791",
+    "type": "expense",
+    "amount": 4536.0,
+    "category": "Investment",
+    "note": "Mutual fund SIP"
+  },
+  {
+    "id": 17,
+    "date": "2026-02-09 19:23:58.165791",
+    "type": "expense",
+    "amount": 804.0,
+    "category": "Utilities",
+    "note": "Electricity bill"
+  },
+  {
+    "id": 28,
+    "date": "2026-02-07 19:23:58.165791",
+    "type": "expense",
+    "amount": 1114.0,
+    "category": "Transport",
+    "note": "Petrol"
+  },
+  {
+    "id": 20,
+    "date": "2026-02-05 19:23:58.165791",
+    "type": "expense",
+    "amount": 800.0,
+    "category": "Personal Care",
+    "note": "Gym membership"
+  },
+  {
+    "id": 16,
+    "date": "2026-02-01 19:23:58.165791",
+    "type": "income",
+    "amount": 70000.0,
+    "category": "Salary",
+    "note": "Monthly salary"
+  },
+  {
+    "id": 7,
+    "date": "2026-01-24 19:23:58.165791",
+    "type": "expense",
+    "amount": 272.0,
+    "category": "Food & Dining",
+    "note": "Swiggy delivery"
+  },
+  {
+    "id": 8,
+    "date": "2026-01-24 19:23:58.165791",
+    "type": "expense",
+    "amount": 4656.0,
+    "category": "Investment",
+    "note": "Mutual fund SIP"
+  },
+  {
+    "id": 3,
+    "date": "2026-01-23 19:23:58.165791",
+    "type": "expense",
+    "amount": 272.0,
+    "category": "Utilities",
+    "note": "Jio recharge"
+  },
+  {
+    "id": 11,
+    "date": "2026-01-21 19:23:58.165791",
+    "type": "expense",
+    "amount": 580.0,
+    "category": "Food & Dining",
+    "note": "Zomato order"
+  },
+  {
+    "id": 15,
+    "date": "2026-01-19 19:23:58.165791",
+    "type": "expense",
+    "amount": 1301.0,
+    "category": "Utilities",
+    "note": "Electricity bill"
+  },
+  {
+    "id": 10,
+    "date": "2026-01-18 19:23:58.165791",
+    "type": "expense",
+    "amount": 349.0,
+    "category": "Personal Care",
+    "note": "Salon"
+  },
+  {
+    "id": 6,
+    "date": "2026-01-15 19:23:58.165791",
+    "type": "expense",
+    "amount": 119.0,
+    "category": "Entertainment",
+    "note": "Spotify"
+  },
+  {
+    "id": 14,
+    "date": "2026-01-13 19:23:58.165791",
+    "type": "expense",
+    "amount": 2061.0,
+    "category": "Food & Dining",
+    "note": "Grocery shopping"
+  },
+  {
+    "id": 4,
+    "date": "2026-01-12 19:23:58.165791",
+    "type": "expense",
+    "amount": 246.0,
+    "category": "Transport",
+    "note": "Uber ride"
+  },
+  {
+    "id": 12,
+    "date": "2026-01-10 19:23:58.165791",
+    "type": "expense",
+    "amount": 800.0,
+    "category": "Personal Care",
+    "note": "Gym membership"
+  },
+  {
+    "id": 9,
+    "date": "2026-01-08 19:23:58.165791",
+    "type": "expense",
+    "amount": 649.0,
+    "category": "Entertainment",
+    "note": "Netflix"
+  },
+  {
+    "id": 5,
+    "date": "2026-01-07 19:23:58.165791",
+    "type": "expense",
+    "amount": 264.0,
+    "category": "Health",
+    "note": "Pharmacy"
+  },
+  {
+    "id": 13,
+    "date": "2026-01-02 19:23:58.165791",
+    "type": "expense",
+    "amount": 3427.0,
+    "category": "Shopping",
+    "note": "Myntra order"
+  },
+  {
+    "id": 82,
+    "date": "2026-06-11 00:00:00.000000",
+    "type": "expense",
+    "amount": 165.0,
+    "category": "Education",
+    "note": "notebooks"
+  },
+  {
+    "id": 83,
+    "date": "2026-06-11 00:00:00.000000",
+    "type": "expense",
+    "amount": 165.0,
+    "category": "Education",
+    "note": "notebooks"
+  },
+  {
+    "id": 84,
+    "date": "2026-06-11 00:00:00.000000",
+    "type": "expense",
+    "amount": 165.0,
+    "category": "Education",
+    "note": "notebooks"
+  },
+  {
+    "id": 85,
+    "date": "2026-06-11 00:00:00.000000",
+    "type": "expense",
+    "amount": 265.0,
+    "category": "Health",
+    "note": "medicine"
+  }
+]
